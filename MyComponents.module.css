@@ -1,0 +1,100 @@
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 52px;
+    height: 52px;
+}
+.alisonKFenn {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.isOnCall {
+    position: absolute;
+    top: 3px;
+    left: 145px;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+    line-height: 28px;
+    color: #949494;
+    text-align: center;
+}
+.groupContainer {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 220px;
+    height: 15px;
+}
+.groupWrapper {
+    position: absolute;
+    top: 18px;
+    left: 62px;
+    width: 220px;
+    height: 15px;
+}
+.groupParent {
+    position: absolute;
+    top: 33px;
+    left: 30px;
+    width: 282px;
+    height: 52px;
+}
+.min {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.left {
+    position: absolute;
+    top: 3px;
+    left: 115px;
+    font-size: 24px;
+    letter-spacing: 0.02em;
+    line-height: 28px;
+    color: #f72828;
+    text-align: center;
+}
+.minParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 156px;
+    height: 19px;
+}
+.videoCallbuttonFunctionInner {
+    position: absolute;
+    top: 51px;
+    left: 1734px;
+    width: 156px;
+    height: 19px;
+    font-size: 29px;
+}
+.videoCallbuttonFunctionChild {
+    position: absolute;
+    top: 930px;
+    left: 885px;
+    width: 150px;
+    height: 70px;
+}
+.videoCallbuttonFunctionItem {
+    position: absolute;
+    top: 933px;
+    left: 690px;
+    width: 523px;
+    height: 63px;
+}
+.videoCallbuttonFunction {
+    width: 100%;
+    position: relative;
+    background-color: #0c0c0c;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 22px;
+    color: #fff;
+    font-family: 'Proxima Nova';
+}
+
